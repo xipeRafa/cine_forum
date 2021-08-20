@@ -1,0 +1,35 @@
+html {
+  min-height: 100%;
+}
+body {
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
+
+  font-family: sans-serif;
+  background-image: linear-gradient(-225deg, #45b2a3 0%, #1870d4 52%, #00ffea 100%);
+  min-height: 100%;
+  padding-bottom: 5rem;
+}
+
+input{
+  margin-bottom: 20px;
+  padding: 5px 20px;
+  
+}
+
+button{
+  background-color: #00ffea;
+  border-radius: 5px;
+  color: #666;
+  padding: 5px 20px;
+}
+.tarea{
+  margin-top: 10px;
+  color: #333;
+  padding: 10px;
+  background:rgba(255, 255, 255, 0.304);
+}
+#toggle{
+  padding: 4px;
+}
